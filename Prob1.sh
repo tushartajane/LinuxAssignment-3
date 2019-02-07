@@ -14,5 +14,5 @@ if [ $num -le $line_no ]
 then
   head -$num que1
 else
-  echo "The number of line present in the file is less than of your input: No of lines in the file: $line_no ";
+  echo "The number of line present in the file is less than of your input: Noumber of lines in the file: $line_no ";
 fi
